@@ -19,7 +19,7 @@ struct RingView: View {
     var body: some View {
         let multiplier = width / 44
         let progress = 1 - percent / 100
-        
+        ghjkuiyuuyuyuuy
         return ZStack {
             Circle()
                 .stroke(Color.black.opacity(0.1), style: StrokeStyle(lineWidth: multiplier * 5))
